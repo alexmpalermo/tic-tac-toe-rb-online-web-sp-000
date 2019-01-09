@@ -129,9 +129,11 @@ end
 end
  
 def play(board)
-  
-  
-  
-  
+  until over?(board)
+  turn(board)
+  if won?(board)
+    winner(board)
+  else
+    
 end
       
