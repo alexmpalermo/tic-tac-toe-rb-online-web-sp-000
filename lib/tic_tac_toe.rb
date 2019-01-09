@@ -133,7 +133,9 @@ def play(board)
   turn(board)
   if won?(board)
     winner(board)
+    puts 
   else
+    puts "Cat's Game!"
   end
 end
    end   
