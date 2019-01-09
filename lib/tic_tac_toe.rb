@@ -128,5 +128,10 @@ end
 end
 end
  
+def play(board)
   
+  
+  
+  
+end
       
