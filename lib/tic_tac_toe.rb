@@ -126,7 +126,7 @@ move(board, index, value)
 display_board(board)
 end
 end
-
+end
  
   
       
